@@ -15,6 +15,10 @@ body {
 
 img {
   max-width: 100%;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
 }
 
 #card-container {
@@ -51,6 +55,10 @@ img {
       -ms-flex-align: center;
           align-items: center;
   position: relative;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
 }
 
 #card-container .card .img-container img:nth-child(1) {
