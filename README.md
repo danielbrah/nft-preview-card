@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URLgit here](https://your-live-site-url.com)
 
 ## My process
 I first had to set up the HTML with divs so I can easily section each of the info in the card. Then, I used flexbox for the card so I can add gapping and equal spacing. 
