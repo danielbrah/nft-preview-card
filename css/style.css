@@ -37,7 +37,7 @@ img {
   -webkit-box-direction: normal;
       -ms-flex-flow: column;
           flex-flow: column;
-  gap: 1rem;
+  gap: 1.5rem;
   background: #14253d;
   border-radius: 0.5em;
   padding: 1.6rem;
@@ -107,13 +107,13 @@ img {
 }
 
 #card-container .card .card-info h3 {
-  font-weight: 400;
+  font-weight: 600;
 }
 
 #card-container .card .card-info p:nth-child(2) {
   font-weight: 300;
   color: #8bacda;
-  line-height: 1.6;
+  line-height: 1.4;
 }
 
 #card-container .card .card-info .currency-and-days {
@@ -140,7 +140,7 @@ img {
 
 #card-container .card .card-info .currency-and-days .ethereum p {
   color: #00fff7;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 #card-container .card .card-info .currency-and-days .days-left {
