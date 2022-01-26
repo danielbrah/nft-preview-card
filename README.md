@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/danielbrah/nft-preview-card
-- Live Site URL: [Add live site URLgit here](https://your-live-site-url.com)
+- Live Site URL: https://flamboyant-goldberg-8f8a1a.netlify.app/
 
 ## My process
 I first had to set up the HTML with divs so I can easily section each of the info in the card. Then, I used flexbox for the card so I can add gapping and equal spacing. For the currency and 'days left' part, I used a flexbox so I can add a space-between to make them separate. Next step was to add the hover effect. Finally, I had to add mobile responsiveness to make it, well, responsive in mobile!
