@@ -101,7 +101,7 @@ img {
   -webkit-box-direction: normal;
       -ms-flex-flow: column;
           flex-flow: column;
-  gap: 1.4rem;
+  gap: 1.3rem;
   border-bottom: 2px solid #2f415b;
   padding: 0 0 1rem 0;
 }
